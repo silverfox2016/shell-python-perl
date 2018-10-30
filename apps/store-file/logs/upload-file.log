@@ -1,0 +1,204 @@
+Mon Jun 25 09:47:22 2018 Database 更新表 upload : 22311 status => 1 成功
+Mon Jun 25 09:47:32 2018 MogileFSUtil delete 1000574E2- en ts from mogilefs and memcache
+Mon Jun 25 09:47:32 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E2/en/video-900k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:47:34 2018 StoreMp4 /cts/out_video/574/74/1000574E2/en/video-900k.mp4 rsync success
+Mon Jun 25 09:47:34 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E2/en/video-1200k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:47:35 2018 StoreMp4 /cts/out_video/574/74/1000574E2/en/video-1200k.mp4 rsync success
+Mon Jun 25 09:47:35 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E2/en/video-2500k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:47:36 2018 StoreMp4 /cts/out_video/574/74/1000574E2/en/video-2500k.mp4 rsync success
+Mon Jun 25 09:47:36 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E2/en/video-1600k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:47:38 2018 StoreMp4 /cts/out_video/574/74/1000574E2/en/video-1600k.mp4 rsync success
+Mon Jun 25 09:47:38 2018 Database 更新表 upload : 22311 status => 2 成功
+Mon Jun 25 09:47:43 2018 Database 更新表 task : 24694 status => 4 成功
+Mon Jun 25 09:47:44 2018 Database 更新表 upload : 22310 status => 1 成功
+Mon Jun 25 09:47:54 2018 MogileFSUtil delete 1000523E19- en ts from mogilefs and memcache
+Mon Jun 25 09:47:54 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E19/en/video-900k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:47:54 2018 StoreMp4 /cts/out_video/523/23/1000523E19/en/video-900k.mp4 rsync success
+Mon Jun 25 09:47:54 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E19/en/video-1600k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:47:54 2018 StoreMp4 /cts/out_video/523/23/1000523E19/en/video-1600k.mp4 rsync success
+Mon Jun 25 09:47:54 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E19/en/video-2500k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:47:55 2018 StoreMp4 /cts/out_video/523/23/1000523E19/en/video-2500k.mp4 rsync success
+Mon Jun 25 09:47:55 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E19/en/video-1200k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:47:55 2018 StoreMp4 /cts/out_video/523/23/1000523E19/en/video-1200k.mp4 rsync success
+Mon Jun 25 09:47:55 2018 Database 更新表 upload : 22310 status => 2 成功
+Mon Jun 25 09:48:00 2018 Database 更新表 task : 24691 status => 4 成功
+Mon Jun 25 09:48:00 2018 Database 更新表 upload : 22308 status => 1 成功
+Mon Jun 25 09:48:10 2018 MogileFSUtil delete 1000576E3- en ts from mogilefs and memcache
+Mon Jun 25 09:48:10 2018 StoreMp4 rsync -avRP /cts/out_video/576/76/1000576E3/en/video-2500k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:48:11 2018 StoreMp4 /cts/out_video/576/76/1000576E3/en/video-2500k.mp4 rsync success
+Mon Jun 25 09:48:11 2018 StoreMp4 rsync -avRP /cts/out_video/576/76/1000576E3/en/video-1600k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:48:13 2018 StoreMp4 /cts/out_video/576/76/1000576E3/en/video-1600k.mp4 rsync success
+Mon Jun 25 09:48:13 2018 StoreMp4 rsync -avRP /cts/out_video/576/76/1000576E3/en/video-900k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:48:17 2018 StoreMp4 /cts/out_video/576/76/1000576E3/en/video-900k.mp4 rsync success
+Mon Jun 25 09:48:17 2018 StoreMp4 rsync -avRP /cts/out_video/576/76/1000576E3/en/video-1200k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:48:23 2018 StoreMp4 /cts/out_video/576/76/1000576E3/en/video-1200k.mp4 rsync success
+Mon Jun 25 09:48:23 2018 Database 更新表 upload : 22308 status => 2 成功
+Mon Jun 25 09:48:28 2018 Database 更新表 task : 24697 status => 4 成功
+Mon Jun 25 09:48:31 2018 Database 更新表 upload : 22312 status => 1 成功
+Mon Jun 25 09:48:41 2018 MogileFSUtil delete 1000576E4- en ts from mogilefs and memcache
+Mon Jun 25 09:48:42 2018 StoreMp4 rsync -avRP /cts/out_video/576/76/1000576E4/en/video-900k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:48:42 2018 StoreMp4 /cts/out_video/576/76/1000576E4/en/video-900k.mp4 rsync success
+Mon Jun 25 09:48:43 2018 StoreMp4 rsync -avRP /cts/out_video/576/76/1000576E4/en/video-1600k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:48:43 2018 StoreMp4 /cts/out_video/576/76/1000576E4/en/video-1600k.mp4 rsync success
+Mon Jun 25 09:48:43 2018 StoreMp4 rsync -avRP /cts/out_video/576/76/1000576E4/en/video-2500k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:48:44 2018 StoreMp4 /cts/out_video/576/76/1000576E4/en/video-2500k.mp4 rsync success
+Mon Jun 25 09:48:44 2018 StoreMp4 rsync -avRP /cts/out_video/576/76/1000576E4/en/video-1200k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:48:45 2018 StoreMp4 /cts/out_video/576/76/1000576E4/en/video-1200k.mp4 rsync success
+Mon Jun 25 09:48:45 2018 Database 更新表 upload : 22312 status => 2 成功
+Mon Jun 25 09:48:50 2018 Database 更新表 task : 24689 status => 4 成功
+Mon Jun 25 09:48:50 2018 Database 更新表 upload : 22309 status => 1 成功
+Mon Jun 25 09:49:00 2018 MogileFSUtil delete 1000576E2- en ts from mogilefs and memcache
+Mon Jun 25 09:49:00 2018 StoreMp4 rsync -avRP /cts/out_video/576/76/1000576E2/en/video-2500k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:49:01 2018 StoreMp4 /cts/out_video/576/76/1000576E2/en/video-2500k.mp4 rsync success
+Mon Jun 25 09:49:01 2018 StoreMp4 rsync -avRP /cts/out_video/576/76/1000576E2/en/video-1200k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:49:02 2018 StoreMp4 /cts/out_video/576/76/1000576E2/en/video-1200k.mp4 rsync success
+Mon Jun 25 09:49:02 2018 StoreMp4 rsync -avRP /cts/out_video/576/76/1000576E2/en/video-900k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:49:03 2018 StoreMp4 /cts/out_video/576/76/1000576E2/en/video-900k.mp4 rsync success
+Mon Jun 25 09:49:03 2018 StoreMp4 rsync -avRP /cts/out_video/576/76/1000576E2/en/video-1600k.mp4 192.168.1.222:/lekan_video/video/ start
+Mon Jun 25 09:49:04 2018 StoreMp4 /cts/out_video/576/76/1000576E2/en/video-1600k.mp4 rsync success
+Mon Jun 25 09:49:04 2018 Database 更新表 upload : 22309 status => 2 成功
+Mon Jun 25 09:49:09 2018 Database 更新表 task : 24696 status => 4 成功
+Wed Jun 27 16:02:33 2018 Database 更新表 upload : 22315 status => 1 成功
+Wed Jun 27 16:02:43 2018 MogileFSUtil delete 1000523E17- en ts from mogilefs and memcache
+Wed Jun 27 16:02:43 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E17/en/video-900k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:02:44 2018 StoreMp4 /cts/out_video/523/23/1000523E17/en/video-900k.mp4 rsync success
+Wed Jun 27 16:02:44 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E17/en/video-1200k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:02:45 2018 StoreMp4 /cts/out_video/523/23/1000523E17/en/video-1200k.mp4 rsync success
+Wed Jun 27 16:02:45 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E17/en/video-1600k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:02:46 2018 StoreMp4 /cts/out_video/523/23/1000523E17/en/video-1600k.mp4 rsync success
+Wed Jun 27 16:02:46 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E17/en/video-2500k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:02:47 2018 StoreMp4 /cts/out_video/523/23/1000523E17/en/video-2500k.mp4 rsync success
+Wed Jun 27 16:02:47 2018 Database 更新表 upload : 22315 status => 2 成功
+Wed Jun 27 16:02:52 2018 Database 更新表 task : 24700 status => 4 成功
+Wed Jun 27 16:02:52 2018 Database 更新表 upload : 22318 status => 1 成功
+Wed Jun 27 16:03:02 2018 MogileFSUtil delete 1000523E21- en ts from mogilefs and memcache
+Wed Jun 27 16:03:02 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E21/en/video-900k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:03:02 2018 StoreMp4 /cts/out_video/523/23/1000523E21/en/video-900k.mp4 rsync success
+Wed Jun 27 16:03:02 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E21/en/video-1200k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:03:03 2018 StoreMp4 /cts/out_video/523/23/1000523E21/en/video-1200k.mp4 rsync success
+Wed Jun 27 16:03:03 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E21/en/video-1600k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:03:03 2018 StoreMp4 /cts/out_video/523/23/1000523E21/en/video-1600k.mp4 rsync success
+Wed Jun 27 16:03:04 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E21/en/video-2500k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:03:04 2018 StoreMp4 /cts/out_video/523/23/1000523E21/en/video-2500k.mp4 rsync success
+Wed Jun 27 16:03:04 2018 Database 更新表 upload : 22318 status => 2 成功
+Wed Jun 27 16:03:09 2018 Database 更新表 task : 24703 status => 4 成功
+Wed Jun 27 16:03:09 2018 Database 更新表 upload : 22323 status => 1 成功
+Wed Jun 27 16:03:19 2018 MogileFSUtil delete 1000574E5- en ts from mogilefs and memcache
+Wed Jun 27 16:03:20 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E5/en/video-900k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:03:26 2018 StoreMp4 /cts/out_video/574/74/1000574E5/en/video-900k.mp4 rsync success
+Wed Jun 27 16:03:27 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E5/en/video-1200k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:03:38 2018 StoreMp4 /cts/out_video/574/74/1000574E5/en/video-1200k.mp4 rsync success
+Wed Jun 27 16:03:46 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E5/en/video-1600k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:03:56 2018 StoreMp4 /cts/out_video/574/74/1000574E5/en/video-1600k.mp4 rsync success
+Wed Jun 27 16:03:56 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E5/en/video-2500k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:04:23 2018 StoreMp4 /cts/out_video/574/74/1000574E5/en/video-2500k.mp4 rsync success
+Wed Jun 27 16:04:23 2018 Database 更新表 upload : 22323 status => 2 成功
+Wed Jun 27 16:04:28 2018 Database 更新表 task : 24714 status => 4 成功
+Wed Jun 27 16:04:33 2018 Database 更新表 upload : 22320 status => 1 成功
+Wed Jun 27 16:04:43 2018 MogileFSUtil delete 1000574E2- en ts from mogilefs and memcache
+Wed Jun 27 16:04:44 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E2/en/video-900k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:04:56 2018 StoreMp4 /cts/out_video/574/74/1000574E2/en/video-900k.mp4 rsync success
+Wed Jun 27 16:04:57 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E2/en/video-1200k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:05:14 2018 StoreMp4 /cts/out_video/574/74/1000574E2/en/video-1200k.mp4 rsync success
+Wed Jun 27 16:05:14 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E2/en/video-1600k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:05:36 2018 StoreMp4 /cts/out_video/574/74/1000574E2/en/video-1600k.mp4 rsync success
+Wed Jun 27 16:05:36 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E2/en/video-2500k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:06:08 2018 StoreMp4 /cts/out_video/574/74/1000574E2/en/video-2500k.mp4 rsync success
+Wed Jun 27 16:06:08 2018 Database 更新表 upload : 22320 status => 2 成功
+Wed Jun 27 16:06:13 2018 Database 更新表 task : 24711 status => 4 成功
+Wed Jun 27 16:06:13 2018 Database 更新表 upload : 22317 status => 1 成功
+Wed Jun 27 16:06:23 2018 MogileFSUtil delete 1000523E20- en ts from mogilefs and memcache
+Wed Jun 27 16:06:24 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E20/en/video-900k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:06:24 2018 StoreMp4 /cts/out_video/523/23/1000523E20/en/video-900k.mp4 rsync success
+Wed Jun 27 16:06:24 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E20/en/video-1200k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:06:25 2018 StoreMp4 /cts/out_video/523/23/1000523E20/en/video-1200k.mp4 rsync success
+Wed Jun 27 16:06:25 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E20/en/video-1600k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:06:26 2018 StoreMp4 /cts/out_video/523/23/1000523E20/en/video-1600k.mp4 rsync success
+Wed Jun 27 16:06:26 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E20/en/video-2500k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:06:27 2018 StoreMp4 /cts/out_video/523/23/1000523E20/en/video-2500k.mp4 rsync success
+Wed Jun 27 16:06:27 2018 Database 更新表 upload : 22317 status => 2 成功
+Wed Jun 27 16:06:32 2018 Database 更新表 task : 24702 status => 4 成功
+Wed Jun 27 16:06:32 2018 Database 更新表 upload : 22321 status => 1 成功
+Wed Jun 27 16:06:42 2018 MogileFSUtil delete 1000574E3- en ts from mogilefs and memcache
+Wed Jun 27 16:06:42 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E3/en/video-900k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:06:50 2018 StoreMp4 /cts/out_video/574/74/1000574E3/en/video-900k.mp4 rsync success
+Wed Jun 27 16:06:50 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E3/en/video-1200k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:07:01 2018 StoreMp4 /cts/out_video/574/74/1000574E3/en/video-1200k.mp4 rsync success
+Wed Jun 27 16:07:01 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E3/en/video-1600k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:07:23 2018 StoreMp4 /cts/out_video/574/74/1000574E3/en/video-1600k.mp4 rsync success
+Wed Jun 27 16:07:23 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E3/en/video-2500k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:07:49 2018 StoreMp4 /cts/out_video/574/74/1000574E3/en/video-2500k.mp4 rsync success
+Wed Jun 27 16:07:49 2018 Database 更新表 upload : 22321 status => 2 成功
+Wed Jun 27 16:07:54 2018 Database 更新表 task : 24712 status => 4 成功
+Wed Jun 27 16:08:00 2018 Database 更新表 upload : 22316 status => 1 成功
+Wed Jun 27 16:08:10 2018 MogileFSUtil delete 1000523E19- en ts from mogilefs and memcache
+Wed Jun 27 16:08:11 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E19/en/video-900k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:08:11 2018 StoreMp4 /cts/out_video/523/23/1000523E19/en/video-900k.mp4 rsync success
+Wed Jun 27 16:08:11 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E19/en/video-1200k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:08:12 2018 StoreMp4 /cts/out_video/523/23/1000523E19/en/video-1200k.mp4 rsync success
+Wed Jun 27 16:08:12 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E19/en/video-1600k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:08:13 2018 StoreMp4 /cts/out_video/523/23/1000523E19/en/video-1600k.mp4 rsync success
+Wed Jun 27 16:08:13 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E19/en/video-2500k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:08:14 2018 StoreMp4 /cts/out_video/523/23/1000523E19/en/video-2500k.mp4 rsync success
+Wed Jun 27 16:08:14 2018 Database 更新表 upload : 22316 status => 2 成功
+Wed Jun 27 16:08:19 2018 Database 更新表 task : 24701 status => 4 成功
+Wed Jun 27 16:08:19 2018 Database 更新表 upload : 22322 status => 1 成功
+Wed Jun 27 16:08:29 2018 MogileFSUtil delete 1000574E4- en ts from mogilefs and memcache
+Wed Jun 27 16:08:29 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E4/en/video-900k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:08:36 2018 StoreMp4 /cts/out_video/574/74/1000574E4/en/video-900k.mp4 rsync success
+Wed Jun 27 16:08:36 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E4/en/video-1200k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:08:48 2018 StoreMp4 /cts/out_video/574/74/1000574E4/en/video-1200k.mp4 rsync success
+Wed Jun 27 16:08:52 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E4/en/video-1600k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:09:06 2018 StoreMp4 /cts/out_video/574/74/1000574E4/en/video-1600k.mp4 rsync success
+Wed Jun 27 16:09:07 2018 StoreMp4 rsync -avRP /cts/out_video/574/74/1000574E4/en/video-2500k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:09:34 2018 StoreMp4 /cts/out_video/574/74/1000574E4/en/video-2500k.mp4 rsync success
+Wed Jun 27 16:09:34 2018 Database 更新表 upload : 22322 status => 2 成功
+Wed Jun 27 16:09:39 2018 Database 更新表 task : 24713 status => 4 成功
+Wed Jun 27 16:09:44 2018 Database 更新表 upload : 22314 status => 1 成功
+Wed Jun 27 16:09:54 2018 MogileFSUtil delete 1000523E16- en ts from mogilefs and memcache
+Wed Jun 27 16:09:54 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E16/en/video-900k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:09:55 2018 StoreMp4 /cts/out_video/523/23/1000523E16/en/video-900k.mp4 rsync success
+Wed Jun 27 16:09:55 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E16/en/video-1200k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:09:55 2018 StoreMp4 /cts/out_video/523/23/1000523E16/en/video-1200k.mp4 rsync success
+Wed Jun 27 16:09:55 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E16/en/video-1600k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:09:56 2018 StoreMp4 /cts/out_video/523/23/1000523E16/en/video-1600k.mp4 rsync success
+Wed Jun 27 16:09:56 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E16/en/video-2500k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:09:56 2018 StoreMp4 /cts/out_video/523/23/1000523E16/en/video-2500k.mp4 rsync success
+Wed Jun 27 16:09:56 2018 Database 更新表 upload : 22314 status => 2 成功
+Wed Jun 27 16:10:01 2018 Database 更新表 task : 24699 status => 4 成功
+Wed Jun 27 16:10:01 2018 Database 更新表 upload : 22319 status => 1 成功
+Wed Jun 27 16:10:11 2018 MogileFSUtil delete 1000523E22- en ts from mogilefs and memcache
+Wed Jun 27 16:10:11 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E22/en/video-900k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:10:12 2018 StoreMp4 /cts/out_video/523/23/1000523E22/en/video-900k.mp4 rsync success
+Wed Jun 27 16:10:12 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E22/en/video-1200k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:10:13 2018 StoreMp4 /cts/out_video/523/23/1000523E22/en/video-1200k.mp4 rsync success
+Wed Jun 27 16:10:13 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E22/en/video-1600k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:10:14 2018 StoreMp4 /cts/out_video/523/23/1000523E22/en/video-1600k.mp4 rsync success
+Wed Jun 27 16:10:14 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E22/en/video-2500k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:10:15 2018 StoreMp4 /cts/out_video/523/23/1000523E22/en/video-2500k.mp4 rsync success
+Wed Jun 27 16:10:15 2018 Database 更新表 upload : 22319 status => 2 成功
+Wed Jun 27 16:10:20 2018 Database 更新表 task : 24704 status => 4 成功
+Wed Jun 27 16:10:20 2018 Database 更新表 upload : 22313 status => 1 成功
+Wed Jun 27 16:10:30 2018 MogileFSUtil delete 1000523E15- en ts from mogilefs and memcache
+Wed Jun 27 16:10:30 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E15/en/video-900k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:10:31 2018 StoreMp4 /cts/out_video/523/23/1000523E15/en/video-900k.mp4 rsync success
+Wed Jun 27 16:10:31 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E15/en/video-1200k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:10:31 2018 StoreMp4 /cts/out_video/523/23/1000523E15/en/video-1200k.mp4 rsync success
+Wed Jun 27 16:10:31 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E15/en/video-1600k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:10:32 2018 StoreMp4 /cts/out_video/523/23/1000523E15/en/video-1600k.mp4 rsync success
+Wed Jun 27 16:10:32 2018 StoreMp4 rsync -avRP /cts/out_video/523/23/1000523E15/en/video-2500k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:10:34 2018 StoreMp4 /cts/out_video/523/23/1000523E15/en/video-2500k.mp4 rsync success
+Wed Jun 27 16:10:34 2018 Database 更新表 upload : 22313 status => 2 成功
+Wed Jun 27 16:10:39 2018 Database 更新表 task : 24698 status => 4 成功
+Wed Jun 27 16:10:39 2018 Database 更新表 upload : 22324 status => 1 成功
+Wed Jun 27 16:10:49 2018 MogileFSUtil delete 1000595E1- en ts from mogilefs and memcache
+Wed Jun 27 16:10:49 2018 StoreMp4 rsync -avRP /cts/out_video/595/95/1000595E1/en/video-900k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:10:49 2018 StoreMp4 /cts/out_video/595/95/1000595E1/en/video-900k.mp4 rsync success
+Wed Jun 27 16:10:49 2018 StoreMp4 rsync -avRP /cts/out_video/595/95/1000595E1/en/video-1200k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:10:50 2018 StoreMp4 /cts/out_video/595/95/1000595E1/en/video-1200k.mp4 rsync success
+Wed Jun 27 16:10:50 2018 StoreMp4 rsync -avRP /cts/out_video/595/95/1000595E1/en/video-1600k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:10:50 2018 StoreMp4 /cts/out_video/595/95/1000595E1/en/video-1600k.mp4 rsync success
+Wed Jun 27 16:10:50 2018 StoreMp4 rsync -avRP /cts/out_video/595/95/1000595E1/en/video-2500k.mp4 192.168.1.222:/lekan_video/video/ start
+Wed Jun 27 16:10:50 2018 StoreMp4 /cts/out_video/595/95/1000595E1/en/video-2500k.mp4 rsync success
+Wed Jun 27 16:10:50 2018 Database 更新表 upload : 22324 status => 2 成功
+Wed Jun 27 16:10:55 2018 Database 更新表 task : 24723 status => 4 成功

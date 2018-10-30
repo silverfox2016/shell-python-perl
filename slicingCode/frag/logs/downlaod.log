@@ -1,0 +1,356 @@
+Mon May 28 14:52:55 2018 localhost
+Mon May 28 14:52:55 2018 开始启动getMP4
+Mon May 28 14:52:55 2018 Got Job [ 134948E100 ]
+Mon May 28 14:52:55 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Mon May 28 14:52:55 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000002.fid
+Mon May 28 14:52:56 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 14:52:56 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000003.fid
+Mon May 28 14:52:57 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 14:52:57 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000004.fid
+Mon May 28 14:52:58 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 14:52:58 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000005.fid
+Mon May 28 14:53:00 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 14:53:00 2018 localhost
+Mon May 28 14:53:02 2018 localhost
+Mon May 28 14:53:05 2018 localhost
+Mon May 28 14:53:05 2018 开始启动getMP4
+Mon May 28 14:53:05 2018 未获得任何任务
+Mon May 28 14:55:06 2018 localhost
+Mon May 28 14:55:06 2018 开始启动getMP4
+Mon May 28 14:55:06 2018 未获得任何任务
+Mon May 28 15:02:41 2018 localhost
+Mon May 28 15:02:41 2018 开始启动getMP4
+Mon May 28 15:02:41 2018 Got Job [ 134948E100 ]
+Mon May 28 15:02:41 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Mon May 28 15:02:41 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000006.fid
+Mon May 28 15:02:42 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 15:02:42 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000007.fid
+Mon May 28 15:02:43 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 15:02:43 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000008.fid
+Mon May 28 15:02:44 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 15:02:44 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000009.fid
+Mon May 28 15:02:46 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 15:02:46 2018 localhost
+Mon May 28 15:02:51 2018 localhost
+Mon May 28 15:02:51 2018 localhost
+Mon May 28 15:02:51 2018 开始启动getMP4
+Mon May 28 15:02:51 2018 未获得任何任务
+Mon May 28 15:26:46 2018 localhost
+Mon May 28 15:26:46 2018 开始启动getMP4
+Mon May 28 15:26:46 2018 未获得任何任务
+Mon May 28 15:26:52 2018 localhost
+Mon May 28 15:26:52 2018 开始启动getMP4
+Mon May 28 15:26:52 2018 未获得任何任务
+Mon May 28 15:30:04 2018 localhost
+Mon May 28 15:30:04 2018 开始启动getMP4
+Mon May 28 15:30:04 2018 Got Job [ 134948E100 ]
+Mon May 28 15:30:04 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Mon May 28 15:30:04 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000650.fid
+Mon May 28 15:30:05 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 15:30:05 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000651.fid
+Mon May 28 15:30:06 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 15:30:06 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000652.fid
+Mon May 28 15:30:07 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 15:30:07 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000653.fid
+Mon May 28 15:30:08 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 15:30:09 2018 localhost
+Mon May 28 15:30:12 2018 localhost
+Mon May 28 15:30:12 2018 localhost
+Mon May 28 15:30:12 2018 开始启动getMP4
+Mon May 28 15:30:12 2018 未获得任何任务
+Mon May 28 16:01:28 2018 localhost
+Mon May 28 16:01:28 2018 开始启动getMP4
+Mon May 28 16:01:57 2018 未获得任何任务
+Mon May 28 16:02:04 2018 localhost
+Mon May 28 16:02:04 2018 开始启动getMP4
+Mon May 28 16:05:15 2018 Got Job [ 134948E100 ]
+Mon May 28 16:06:07 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Mon May 28 16:18:00 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000655.fid
+Mon May 28 16:18:08 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000655.fid
+Mon May 28 16:18:38 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 16:18:54 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000656.fid
+Mon May 28 16:18:59 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 16:18:59 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000657.fid
+Mon May 28 16:19:03 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 16:19:03 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000658.fid
+Mon May 28 16:19:09 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 16:19:09 2018 localhost
+Mon May 28 16:29:12 2018 localhost
+Mon May 28 16:29:12 2018 开始启动getMP4
+Mon May 28 16:29:20 2018 Got Job [ 134948E100 ]
+Mon May 28 16:29:22 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Mon May 28 16:29:34 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000655.fid
+Mon May 28 16:29:37 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 16:29:37 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000656.fid
+Mon May 28 16:29:40 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 16:29:40 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000657.fid
+Mon May 28 16:29:43 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 16:29:43 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000658.fid
+Mon May 28 16:29:49 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 16:29:49 2018 localhost
+Mon May 28 16:45:28 2018 localhost
+Mon May 28 16:45:28 2018 开始启动getMP4
+Mon May 28 16:45:34 2018 Got Job [ 134948E100 ]
+Mon May 28 16:45:35 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Mon May 28 16:45:41 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000655.fid
+Mon May 28 16:45:43 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 16:45:43 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000656.fid
+Mon May 28 16:45:46 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 16:45:46 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000657.fid
+Mon May 28 16:45:49 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 16:45:49 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000658.fid
+Mon May 28 16:45:55 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 16:45:55 2018 localhost
+Mon May 28 16:48:51 2018 localhost
+Mon May 28 16:49:26 2018 localhost
+Mon May 28 16:49:39 2018 开始启动getMP4
+Mon May 28 16:50:07 2018 localhost
+Mon May 28 16:50:07 2018 开始启动getMP4
+Mon May 28 16:50:14 2018 Got Job [ 134948E100 ]
+Mon May 28 16:50:16 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Mon May 28 16:50:19 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000655.fid
+Mon May 28 16:50:20 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 16:50:20 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000656.fid
+Mon May 28 16:50:23 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 16:50:23 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000657.fid
+Mon May 28 16:50:27 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 16:50:27 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000658.fid
+Mon May 28 16:50:33 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 16:50:33 2018 localhost
+Mon May 28 17:05:54 2018 localhost
+Mon May 28 17:05:54 2018 开始启动getMP4
+Mon May 28 17:05:59 2018 Got Job [ 134948E100 ]
+Mon May 28 17:06:00 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Mon May 28 17:06:02 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000655.fid
+Mon May 28 17:06:04 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 17:06:04 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000656.fid
+Mon May 28 17:06:07 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 17:06:07 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000657.fid
+Mon May 28 17:06:11 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 17:06:11 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000658.fid
+Mon May 28 17:06:17 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 17:06:17 2018 localhost
+Mon May 28 17:18:47 2018 localhost
+Mon May 28 17:18:47 2018 开始启动getMP4
+Mon May 28 17:18:52 2018 未获得任何任务
+Mon May 28 17:19:35 2018 localhost
+Mon May 28 17:19:35 2018 开始启动getMP4
+Mon May 28 17:19:49 2018 Got Job [ 134948E100 ]
+Mon May 28 17:19:51 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Mon May 28 17:19:52 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000655.fid
+Mon May 28 17:19:54 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 17:19:54 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000656.fid
+Mon May 28 17:19:57 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 17:19:57 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000657.fid
+Mon May 28 17:20:01 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 17:20:01 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000658.fid
+Mon May 28 17:20:07 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 17:20:07 2018 localhost
+Mon May 28 17:36:51 2018 localhost
+Mon May 28 17:36:51 2018 开始启动getMP4
+Mon May 28 17:36:56 2018 Got Job [ 134948E100 ]
+Mon May 28 17:36:58 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Mon May 28 17:36:59 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000655.fid
+Mon May 28 17:37:01 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 17:37:01 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000656.fid
+Mon May 28 17:37:04 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 17:37:04 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000657.fid
+Mon May 28 17:37:07 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 17:37:07 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000658.fid
+Mon May 28 17:37:13 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 17:37:13 2018 localhost
+Mon May 28 17:57:41 2018 localhost
+Mon May 28 17:57:41 2018 开始启动getMP4
+Mon May 28 17:57:41 2018 Got Job [ 134948E100 ]
+Mon May 28 17:57:41 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Mon May 28 17:57:41 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000655.fid
+Mon May 28 17:57:42 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 17:57:42 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000656.fid
+Mon May 28 17:57:44 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 17:57:44 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000657.fid
+Mon May 28 17:57:46 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 17:57:47 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000658.fid
+Mon May 28 17:57:50 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 17:57:50 2018 localhost
+Mon May 28 17:57:52 2018 localhost
+Mon May 28 17:57:52 2018 localhost
+Mon May 28 17:57:52 2018 开始启动getMP4
+Mon May 28 17:57:52 2018 未获得任何任务
+Mon May 28 17:58:43 2018 localhost
+Mon May 28 17:58:43 2018 开始启动getMP4
+Mon May 28 17:58:43 2018 未获得任何任务
+Mon May 28 17:58:48 2018 localhost
+Mon May 28 17:58:48 2018 开始启动getMP4
+Mon May 28 17:58:48 2018 Got Job [ 134948E100 ]
+Mon May 28 17:58:48 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Mon May 28 17:58:48 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000655.fid
+Mon May 28 17:58:49 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 17:58:49 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000656.fid
+Mon May 28 17:58:51 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 17:58:51 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000657.fid
+Mon May 28 17:58:52 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 17:58:52 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000658.fid
+Mon May 28 17:58:55 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 17:58:55 2018 localhost
+Mon May 28 17:58:57 2018 localhost
+Mon May 28 17:58:57 2018 localhost
+Mon May 28 17:58:57 2018 开始启动getMP4
+Mon May 28 17:58:57 2018 未获得任何任务
+Mon May 28 17:59:31 2018 localhost
+Mon May 28 17:59:31 2018 开始启动getMP4
+Mon May 28 17:59:31 2018 Got Job [ 134948E100 ]
+Mon May 28 17:59:31 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Mon May 28 17:59:31 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000655.fid
+Mon May 28 17:59:32 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 17:59:32 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000656.fid
+Mon May 28 17:59:34 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 17:59:34 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000657.fid
+Mon May 28 17:59:36 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 17:59:36 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000658.fid
+Mon May 28 17:59:39 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 17:59:39 2018 localhost
+Mon May 28 17:59:40 2018 localhost
+Mon May 28 17:59:40 2018 localhost
+Mon May 28 17:59:40 2018 开始启动getMP4
+Mon May 28 17:59:40 2018 未获得任何任务
+Mon May 28 18:00:16 2018 localhost
+Mon May 28 18:00:16 2018 开始启动getMP4
+Mon May 28 18:00:16 2018 未获得任何任务
+Mon May 28 18:00:21 2018 localhost
+Mon May 28 18:00:21 2018 开始启动getMP4
+Mon May 28 18:00:21 2018 Got Job [ 134948E100 ]
+Mon May 28 18:00:21 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Mon May 28 18:00:21 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000655.fid
+Mon May 28 18:00:22 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 18:00:22 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000656.fid
+Mon May 28 18:00:23 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 18:00:23 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000657.fid
+Mon May 28 18:00:25 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 18:00:25 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000658.fid
+Mon May 28 18:00:28 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 18:00:28 2018 localhost
+Mon May 28 18:00:30 2018 localhost
+Mon May 28 18:00:30 2018 localhost
+Mon May 28 18:00:30 2018 开始启动getMP4
+Mon May 28 18:00:30 2018 未获得任何任务
+Mon May 28 18:00:58 2018 localhost
+Mon May 28 18:00:58 2018 开始启动getMP4
+Mon May 28 18:01:04 2018 Got Job [ 134948E100 ]
+Mon May 28 18:01:06 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Mon May 28 18:01:08 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000655.fid
+Mon May 28 18:01:09 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 18:01:09 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000656.fid
+Mon May 28 18:01:12 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 18:01:12 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000657.fid
+Mon May 28 18:01:15 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 18:01:15 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000658.fid
+Mon May 28 18:01:21 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 18:01:21 2018 localhost
+Tue May 29 09:36:58 2018 localhost
+Tue May 29 09:36:58 2018 开始启动getMP4
+Tue May 29 09:37:00 2018 Got Job [ 134948E100 ]
+Tue May 29 09:37:02 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Tue May 29 09:37:04 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000655.fid
+Tue May 29 09:37:06 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Tue May 29 09:37:06 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000656.fid
+Tue May 29 09:37:09 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Tue May 29 09:37:10 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000657.fid
+Tue May 29 09:37:14 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Tue May 29 09:37:14 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000658.fid
+Tue May 29 09:37:20 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Tue May 29 09:37:20 2018 localhost
+Tue May 29 09:37:50 2018 localhost
+Tue May 29 09:37:55 2018 localhost
+Tue May 29 09:37:55 2018 开始启动getMP4
+Tue May 29 09:39:06 2018 Got Job [ 134948E100 ]
+Tue May 29 09:39:07 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Tue May 29 09:39:09 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000655.fid
+Tue May 29 09:39:11 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Tue May 29 09:39:11 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000656.fid
+Tue May 29 09:39:14 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Tue May 29 09:39:14 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000657.fid
+Tue May 29 09:39:17 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Tue May 29 09:39:17 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000658.fid
+Tue May 29 09:39:22 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Tue May 29 09:39:22 2018 localhost
+Tue May 29 09:39:45 2018 localhost
+Tue May 29 09:39:56 2018 localhost
+Tue May 29 09:40:21 2018 开始启动getMP4
+Tue May 29 09:40:49 2018 Got Job [ 134948E100 ]
+Tue May 29 09:40:50 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Tue May 29 09:40:52 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000655.fid
+Tue May 29 09:40:54 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Tue May 29 09:40:54 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000656.fid
+Tue May 29 09:40:56 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Tue May 29 09:40:56 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000657.fid
+Tue May 29 09:41:00 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Tue May 29 09:41:00 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000658.fid
+Tue May 29 09:41:06 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Tue May 29 09:41:07 2018 localhost
+Tue May 29 09:49:21 2018 localhost
+Tue May 29 09:49:21 2018 开始启动getMP4
+Tue May 29 09:49:21 2018 未获得任何任务
+Tue May 29 09:49:27 2018 localhost
+Tue May 29 09:49:27 2018 开始启动getMP4
+Tue May 29 09:49:27 2018 Got Job [ 134948E100 ]
+Tue May 29 09:49:27 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Tue May 29 09:49:27 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000655.fid
+Tue May 29 09:49:28 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Tue May 29 09:49:28 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000656.fid
+Tue May 29 09:49:29 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Tue May 29 09:49:29 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000657.fid
+Tue May 29 09:49:32 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Tue May 29 09:49:32 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000658.fid
+Tue May 29 09:49:35 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Tue May 29 09:49:35 2018 localhost
+Tue May 29 09:49:37 2018 localhost
+Tue May 29 09:49:37 2018 localhost
+Tue May 29 09:49:37 2018 开始启动getMP4
+Tue May 29 09:49:37 2018 未获得任何任务
+Tue May 29 10:17:51 2018 localhost
+Tue May 29 10:17:51 2018 开始启动getMP4
+Tue May 29 10:18:06 2018 Got Job [ 134948E100 ]
+Tue May 29 10:18:11 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Tue May 29 10:18:13 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000877.fid
+Tue May 29 10:18:15 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Tue May 29 10:18:15 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000878.fid
+Tue May 29 10:18:17 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Tue May 29 10:18:17 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000879.fid
+Tue May 29 10:18:20 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Tue May 29 10:18:20 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000880.fid
+Tue May 29 10:18:24 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Tue May 29 10:18:24 2018 localhost
+Tue May 29 10:18:48 2018 localhost
+Tue May 29 10:19:03 2018 localhost
+Tue May 29 10:19:09 2018 开始启动getMP4
+Tue May 29 10:25:34 2018 Got Job [ 134948E100 ]
+Tue May 29 10:25:35 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Tue May 29 10:25:37 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000877.fid
+Tue May 29 10:25:39 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Tue May 29 10:25:39 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000878.fid
+Tue May 29 10:25:42 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Tue May 29 10:25:42 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000879.fid
+Tue May 29 10:25:45 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Tue May 29 10:25:45 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/000/0000000880.fid
+Tue May 29 10:25:51 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Tue May 29 10:25:51 2018 localhost
+Tue May 29 11:08:41 2018 localhost
+Tue May 29 11:14:26 2018 localhost
+Tue May 29 11:14:42 2018 开始启动getMP4
+Tue May 29 14:32:03 2018 localhost
+Tue May 29 14:32:03 2018 开始启动getMP4
+Tue May 29 14:32:03 2018 Got Job [ 134948E100 ]
+Tue May 29 14:32:03 2018 134948E100: [ 134948E100-cn-1200k.mp4 134948E100-cn-1600k.mp4 134948E100-cn-2500k.mp4 134948E100-cn-900k.mp4 ]
+Tue May 29 14:32:03 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4 from http://192.168.1.222:7500/dev1/0/000/001/0000001095.fid
+Tue May 29 14:32:04 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Tue May 29 14:32:04 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4 from http://192.168.1.222:7500/dev1/0/000/001/0000001096.fid
+Tue May 29 14:32:05 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Tue May 29 14:32:05 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4 from http://192.168.1.222:7500/dev1/0/000/001/0000001097.fid
+Tue May 29 14:32:06 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Tue May 29 14:32:06 2018 start download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4 from http://192.168.1.222:7500/dev1/0/000/001/0000001098.fid
+Tue May 29 14:32:08 2018 finished download /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Tue May 29 14:32:08 2018 localhost
+Tue May 29 14:32:15 2018 localhost
+Tue May 29 14:32:16 2018 localhost
+Tue May 29 14:32:16 2018 开始启动getMP4
+Tue May 29 14:32:16 2018 未获得任何任务

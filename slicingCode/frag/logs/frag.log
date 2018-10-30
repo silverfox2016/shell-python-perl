@@ -1,0 +1,262 @@
+Mon May 28 14:53:00 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Mon May 28 14:53:00 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 14:53:00 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 14:53:00 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 14:53:01 2018 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv
+Mon May 28 14:53:01 2018 /usr/local/bin/mp4split -o '/lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ism' /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv
+Mon May 28 14:53:01 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ism 文件完成
+Mon May 28 14:53:01 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ismc /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv
+Mon May 28 14:53:01 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ismc 文件完成
+Mon May 28 14:53:01 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv
+Mon May 28 14:53:01 2018 /lekan_video/frag/948/48/134948E100/cn 生成 m3u8 文件完成
+Mon May 28 14:53:02 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 begin
+Mon May 28 14:53:02 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/tmp.m3u8 finished
+Mon May 28 14:53:02 2018 生成 /lekan_video/frag/948/48/134948E100/videoinfo.xml
+Mon May 28 14:53:05 2018 未获取到任务
+Mon May 28 14:55:06 2018 未获取到任务
+Mon May 28 15:02:46 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Mon May 28 15:02:46 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 15:02:46 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 15:02:46 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 15:02:46 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 15:02:50 2018 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 15:02:50 2018 /usr/local/bin/mp4split -o '/lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ism' /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv
+Mon May 28 15:02:50 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ism 文件完成
+Mon May 28 15:02:50 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ismc /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv
+Mon May 28 15:02:50 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ismc 文件完成
+Mon May 28 15:02:51 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv
+Mon May 28 15:02:51 2018 /lekan_video/frag/948/48/134948E100/cn 生成 m3u8 文件完成
+Mon May 28 15:02:51 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 begin
+Mon May 28 15:02:51 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/tmp.m3u8 finished
+Mon May 28 15:02:51 2018 生成 /lekan_video/frag/948/48/134948E100/videoinfo.xml
+Mon May 28 15:02:51 2018 未获取到任务
+Mon May 28 15:26:46 2018 未获取到任务
+Mon May 28 15:26:52 2018 未获取到任务
+Mon May 28 15:30:10 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Mon May 28 15:30:10 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 15:30:10 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 15:30:11 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 15:30:11 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 15:30:11 2018 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 15:30:11 2018 /usr/local/bin/mp4split -o '/lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ism' /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv
+Mon May 28 15:30:11 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ism 文件完成
+Mon May 28 15:30:11 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ismc /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv
+Mon May 28 15:30:11 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ismc 文件完成
+Mon May 28 15:30:11 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv
+Mon May 28 15:30:11 2018 /lekan_video/frag/948/48/134948E100/cn 生成 m3u8 文件完成
+Mon May 28 15:30:12 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 begin
+Mon May 28 15:30:12 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/tmp.m3u8 finished
+Mon May 28 15:30:12 2018 生成 /lekan_video/frag/948/48/134948E100/videoinfo.xml
+Mon May 28 15:30:12 2018 未获取到任务
+Mon May 28 16:02:00 2018 未获取到任务
+Mon May 28 16:19:42 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Mon May 28 16:20:18 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 16:20:28 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 16:20:33 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 16:20:38 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 16:31:14 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Mon May 28 16:31:15 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 16:31:15 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 16:31:17 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 16:31:17 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 16:31:18 2018 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 16:31:18 2018 /usr/local/bin/mp4split -o '/lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ism' /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv
+Mon May 28 16:31:18 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ism 文件完成
+Mon May 28 16:34:33 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ismc /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv
+Mon May 28 16:35:00 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ismc 文件完成
+Mon May 28 16:42:27 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv
+Mon May 28 16:46:13 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Mon May 28 16:46:36 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 16:48:50 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 16:48:51 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 16:48:51 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 16:48:51 2018 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 16:48:51 2018 /usr/local/bin/mp4split -o '/lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ism' /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 16:48:51 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ism 文件完成
+Mon May 28 16:48:51 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ismc /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv
+Mon May 28 16:48:51 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ismc 文件完成
+Mon May 28 16:48:51 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv
+Mon May 28 16:48:51 2018 /lekan_video/frag/948/48/134948E100/cn 生成 m3u8 文件完成
+Mon May 28 16:48:51 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 begin
+Mon May 28 16:48:51 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/tmp.m3u8 finished
+Mon May 28 16:48:51 2018 生成 /lekan_video/frag/948/48/134948E100/videoinfo.xml
+Mon May 28 16:50:51 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Mon May 28 16:51:17 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 16:52:03 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 16:52:18 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 16:52:31 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 16:53:42 2018 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 16:54:22 2018 /usr/local/bin/mp4split -o '/lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ism' /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 16:54:48 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ism 文件完成
+Mon May 28 17:13:57 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Mon May 28 17:14:14 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 17:14:31 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 17:14:44 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 17:15:06 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 17:15:38 2018 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 17:15:55 2018 /usr/local/bin/mp4split -o '/lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ism' /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 17:17:12 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ism 文件完成
+Mon May 28 17:18:54 2018 未获取到任务
+Mon May 28 17:23:19 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Mon May 28 17:23:49 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 17:24:02 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 17:24:16 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 17:27:01 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 17:28:54 2018 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 17:31:28 2018 /usr/local/bin/mp4split -o '/lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ism' /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 17:33:42 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ism 文件出错, 返回值: [ 1 ]
+Mon May 28 17:38:13 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Mon May 28 17:38:48 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 17:39:03 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 17:39:10 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 17:39:18 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 17:39:45 2018 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 17:40:07 2018 /usr/local/bin/mp4split -o '/lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ism' /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 17:57:51 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Mon May 28 17:57:51 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 17:57:51 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 17:57:52 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 17:57:52 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 17:57:52 2018 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 17:57:52 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ism '/lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv'
+Mon May 28 17:57:52 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ism 文件出错, 返回值: [ 1 ]
+Mon May 28 17:57:52 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ismc '/lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv'
+Mon May 28 17:57:52 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ismc 文件出错: [ 1 ]
+Mon May 28 17:57:52 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 '/lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv'
+Mon May 28 17:57:52 2018 /lekan_video/frag/948/48/134948E100/cn 生成 m3u8 文件出错: [ 1 ]
+Mon May 28 17:57:52 2018 生成 /lekan_video/frag/948/48/134948E100/videoinfo.xml
+Mon May 28 17:57:52 2018 未获取到任务
+Mon May 28 17:58:43 2018 未获取到任务
+Mon May 28 17:58:56 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Mon May 28 17:58:56 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 17:58:56 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 17:58:56 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 17:58:57 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 17:58:57 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ismc '/lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv'
+Mon May 28 17:58:57 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ismc 文件出错: [ 1 ]
+Mon May 28 17:58:57 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 '/lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv'
+Mon May 28 17:58:57 2018 /lekan_video/frag/948/48/134948E100/cn 生成 m3u8 文件出错: [ 1 ]
+Mon May 28 17:58:57 2018 生成 /lekan_video/frag/948/48/134948E100/videoinfo.xml
+Mon May 28 17:58:57 2018 未获取到任务
+Mon May 28 17:59:40 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Mon May 28 17:59:40 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 17:59:40 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 17:59:40 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 17:59:40 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 17:59:40 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ismc /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 17:59:40 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ismc 文件完成
+Mon May 28 17:59:40 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 17:59:40 2018 /lekan_video/frag/948/48/134948E100/cn 生成 m3u8 文件完成
+Mon May 28 17:59:40 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 begin
+Mon May 28 17:59:40 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/tmp.m3u8 finished
+Mon May 28 17:59:40 2018 生成 /lekan_video/frag/948/48/134948E100/videoinfo.xml
+Mon May 28 17:59:40 2018 未获取到任务
+Mon May 28 18:00:16 2018 未获取到任务
+Mon May 28 18:00:29 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Mon May 28 18:00:29 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 18:00:29 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 18:00:29 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 18:00:30 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 18:00:30 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ismc /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 18:00:30 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ismc 文件完成
+Mon May 28 18:00:30 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 18:00:30 2018 /lekan_video/frag/948/48/134948E100/cn 生成 m3u8 文件完成
+Mon May 28 18:00:30 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 begin
+Mon May 28 18:00:30 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/tmp.m3u8 finished
+Mon May 28 18:00:30 2018 生成 /lekan_video/frag/948/48/134948E100/videoinfo.xml
+Mon May 28 18:00:30 2018 未获取到任务
+Mon May 28 18:01:35 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Mon May 28 18:01:40 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Mon May 28 18:01:43 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Mon May 28 18:01:46 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Mon May 28 18:01:49 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Mon May 28 18:02:12 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ismc /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 18:02:52 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ismc 文件完成
+Mon May 28 18:04:38 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Mon May 28 18:05:11 2018 /lekan_video/frag/948/48/134948E100/cn 生成 m3u8 文件完成
+Mon May 28 18:06:05 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 begin
+Mon May 28 18:08:32 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/tmp.m3u8 finished
+Tue May 29 09:37:37 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Tue May 29 09:37:47 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Tue May 29 09:37:49 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Tue May 29 09:37:50 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Tue May 29 09:37:50 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Tue May 29 09:37:50 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ismc /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Tue May 29 09:37:50 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ismc 文件完成
+Tue May 29 09:37:50 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Tue May 29 09:37:50 2018 /lekan_video/frag/948/48/134948E100/cn 生成 m3u8 文件完成
+Tue May 29 09:37:50 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 begin
+Tue May 29 09:37:50 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/tmp.m3u8 finished
+Tue May 29 09:37:50 2018 生成 /lekan_video/frag/948/48/134948E100/videoinfo.xml
+Tue May 29 09:39:44 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Tue May 29 09:39:44 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Tue May 29 09:39:44 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Tue May 29 09:39:45 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Tue May 29 09:39:45 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Tue May 29 09:39:45 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ismc /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Tue May 29 09:39:45 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ismc 文件完成
+Tue May 29 09:39:45 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Tue May 29 09:39:45 2018 /lekan_video/frag/948/48/134948E100/cn 生成 m3u8 文件完成
+Tue May 29 09:39:45 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 begin
+Tue May 29 09:39:45 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/tmp.m3u8 finished
+Tue May 29 09:39:45 2018 生成 /lekan_video/frag/948/48/134948E100/videoinfo.xml
+Tue May 29 09:42:27 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Tue May 29 09:42:38 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Tue May 29 09:42:54 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Tue May 29 09:43:07 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Tue May 29 09:43:28 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Tue May 29 09:43:53 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ismc /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Tue May 29 09:44:05 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ismc 文件完成
+Tue May 29 09:44:53 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Tue May 29 09:46:05 2018 /lekan_video/frag/948/48/134948E100/cn 生成 m3u8 文件完成
+Tue May 29 09:49:21 2018 未获取到任务
+Tue May 29 09:49:36 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Tue May 29 09:49:36 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Tue May 29 09:49:36 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Tue May 29 09:49:36 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Tue May 29 09:49:36 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Tue May 29 09:49:37 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ismc /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Tue May 29 09:49:37 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ismc 文件完成
+Tue May 29 09:49:37 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Tue May 29 09:49:37 2018 /lekan_video/frag/948/48/134948E100/cn 生成 m3u8 文件完成
+Tue May 29 09:49:37 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 begin
+Tue May 29 09:49:37 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/tmp.m3u8 finished
+Tue May 29 09:49:37 2018 生成 /lekan_video/frag/948/48/134948E100/videoinfo.xml
+Tue May 29 09:49:37 2018 未获取到任务
+Tue May 29 10:18:44 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Tue May 29 10:18:44 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Tue May 29 10:18:45 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Tue May 29 10:18:45 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Tue May 29 10:18:45 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Tue May 29 10:18:48 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ismc /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Tue May 29 10:18:48 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ismc 文件完成
+Tue May 29 10:18:48 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Tue May 29 10:18:48 2018 /lekan_video/frag/948/48/134948E100/cn 生成 m3u8 文件完成
+Tue May 29 10:18:48 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 begin
+Tue May 29 10:18:48 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/tmp.m3u8 finished
+Tue May 29 10:18:48 2018 生成 /lekan_video/frag/948/48/134948E100/videoinfo.xml
+Tue May 29 10:31:41 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Tue May 29 10:31:48 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Tue May 29 10:32:09 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Tue May 29 10:32:12 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Tue May 29 10:32:17 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Tue May 29 10:32:32 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ismc /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Tue May 29 10:32:37 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ismc 文件完成
+Tue May 29 10:32:48 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Tue May 29 10:32:53 2018 /lekan_video/frag/948/48/134948E100/cn 生成 m3u8 文件完成
+Tue May 29 10:33:02 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 begin
+Tue May 29 10:33:17 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/tmp.m3u8 finished
+Tue May 29 11:07:58 2018 生成 /lekan_video/frag/948/48/134948E100/videoinfo.xml
+Tue May 29 14:32:10 2018 开始处理 /lekan_video/frag/948/48/134948E100/cn
+Tue May 29 14:32:10 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv /lekan_video/frag/948/48/134948E100/cn/video-900k.mp4
+Tue May 29 14:32:10 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1600k.mp4
+Tue May 29 14:32:11 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video-1200k.mp4
+Tue May 29 14:32:11 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video-2500k.mp4
+Tue May 29 14:32:13 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.ismc /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Tue May 29 14:32:13 2018 /lekan_video/frag/948/48/134948E100/cn 生成 ismc 文件完成
+Tue May 29 14:32:13 2018 /usr/local/bin/mp4split -o /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1200k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-1600k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-2500k.ismv /lekan_video/frag/948/48/134948E100/cn/video.ssm/video-900k.ismv
+Tue May 29 14:32:13 2018 /lekan_video/frag/948/48/134948E100/cn 生成 m3u8 文件完成
+Tue May 29 14:32:13 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/video.m3u8 begin
+Tue May 29 14:32:13 2018 edit m3u8 file /lekan_video/frag/948/48/134948E100/cn/video.ssm/tmp.m3u8 finished
+Tue May 29 14:32:13 2018 生成 /lekan_video/frag/948/48/134948E100/videoinfo.xml
+Tue May 29 14:32:16 2018 未获取到任务

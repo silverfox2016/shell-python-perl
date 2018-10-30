@@ -1,0 +1,13 @@
+---
+trackers:
+  host: 112.245.17.196
+  port: 7001
+  domain: TS
+  class: ts
+
+database:
+  host: xxx.xxx.xxx.xxx
+  port: 3306
+  user: xxx
+  password: xxx
+  dbname: xxx

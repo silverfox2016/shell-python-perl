@@ -1,0 +1,36 @@
+---
+# 自动转码系统配置文件
+database:
+  hostname: 192.168.1.222
+  ip: 192.168.1.222
+  port: 3306
+  user: cts
+  passwd: cts
+  dbname: cts
+options:
+  uploadPath: '/cts/upload'
+  workingPath: '/cts/work'
+  outputBasePath: '/cts/out_video'
+trackers:
+  host: 192.168.1.222
+  port: 7001
+  domain: TS
+  class: ts
+mogdatabase:
+  hostname: '192.168.1.222'
+  ip: 192.168.1.222
+  port: 3306
+  user: ts
+  passwd: ts
+  dbname: sendfile
+backup:
+  free_disk: 500G
+  source:
+    base: /source_video
+    map_to: /bak/lekan_source
+    ip: 192.168.1.222
+  out_video:
+    base: /out_video
+    map_to: /bak/lekan_out_video
+    ip: 192.168.1.222
+

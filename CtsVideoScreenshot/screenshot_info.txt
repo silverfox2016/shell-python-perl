@@ -1,0 +1,33 @@
+儿童视频截图
+Dvd视频：230x130, 554x314, 314x224, 132x92, 70x48
+蓝光视频：230x130, 554x314, 314x224, 132x92, 70x48
+纪录片视频截图：
+Dvd视频：230x130, 640x360, 640x210
+蓝光视频：230x130, 640x360, 1280x420
+
+截图数目：根据视频时长，每一分钟截图一张，同时生成一个XML文件(screenshot.xml)。
+截图命名：按时间和尺寸命名，如：1_554x314.jpg、2_554x314.jpg ……
+截图相对路径：按视频ID每两位一级目录，如：
+视频ID：133730E10，生成图片的目录为：13/37/30/E10/shot/，XML文件路径为：13/37/30/E10
+
+
+314x224  是网站video详情页剧集列表和播放页剧集列表在用、pc客户端、mac客户端、win8应用
+2013-4-11：ipad新版剧集截图需求：314x224，用于新版ipad剧集图片展示，播放记录图片展示。
+2013-11-6 ：是儿童动画片新版需求：554x314
+
+XML文件内容：screenshot.xml
+<?xml version="1.0" encoding="UTF-8"?>
+<shot>
+<time>60</time>
+<pic time="10" file="shot/1_230x130.jpg"/>
+<pic time="10" file="shot/2_230x130.jpg"/>
+<pic time="10" file="shot/3_230x130.jpg"/>
+<pic time="10" file="shot/4_230x130.jpg"/>
+…
+</shot>
+
+
+my $ret = `curl -s -d "videoId=134596 " “ http://58.68.228.46:9006/app/impl?videoDocu”`;
+if( $ret == 0 ){ print  “电影”}
+if( $ret == 1 ){ print  “纪录片”}
+

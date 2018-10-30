@@ -1,0 +1,13 @@
+---
+# mogilef db configure
+database:
+  host: localhost
+  port: 3306
+  dbname: sendfile
+  user: root
+  pass: ''
+trackers:
+  host: 192.168.1.222
+  port: 7001
+  domain: TS
+  class: ts
