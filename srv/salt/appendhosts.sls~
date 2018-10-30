@@ -1,0 +1,6 @@
+{% set host = grains['ipv4[0]'] %}
+{% set fqdn = grains['fqdn'] %}
+append-file:
+  file.append:
+    - name: /etc/hosts
+    - text: "{{ host  }} {{ fqdn }}"

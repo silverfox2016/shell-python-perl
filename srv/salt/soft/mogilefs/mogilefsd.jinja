@@ -1,0 +1,21 @@
+{% set host = grains['fqdn_ip4'][0] %}
+{%- if salt['grains.get']('Langfang-cnc') == 'mogilefs_tracker' %}
+db_dsn = DBI:mysql:mogilefs;host=112.245.17.196;port3306;mysql_connect_timeout=5
+db_user = tracker
+db_pass = tracker~!@
+conf_port = 7001
+listener_jobs  100
+replicate_jobs  50
+node_timeout  100
+rebalance_ignore_missing  1
+local_network  {{ host }}/28
+query_jobs = 300
+plugins  ZoneLocal
+{%- elif salt['grains.get']('Langfang-cnc') == 'mogilefs_store' %}
+httplisten={{ host }}:7500
+mgmtlisten={{ host }}:7501
+docroot=/data
+maxconns = 100000
+{%- endif %}
+
+

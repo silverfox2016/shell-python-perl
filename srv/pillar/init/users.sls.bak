@@ -1,0 +1,37 @@
+users:
+  - name: wu.zou
+    alias: wu_zou
+    authorized_keys: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDVvxl86ftbMJYGydo54gIw8INkQAVqc22BoHEimx1eupv/lExV1UUyEbHdOuCWuZM1N2S2bGC8PDgpg9Eoi7iCEFKy+FiCFunKZULWv3DVz9FFhb+D9J9Wx/H9nZIt1KY6Nnuu/CTNVYNFHqicujyeDRAmPXpXhMi9pDLtEGn5C3gje5TwaJ/R9jLfDAIYAuV9PZfBbuf10TYDZMPQjDRdL+6rHJbisDJWmxBjuR9HL3vAxsfXmW5ehS/TTeXIT51+INGqVzn+i1luUVWB3W8rbat1+o54FX5Nb/d5NYoFAuLEKZcPKjZ0y2y6JdUFaW7ZWRFcAHHYNSf8tjddBxbh aobama@aobama-pc
+    password: $6$N2MVn1gB$l51FEYJxFJ0DDjRuLJtXLocIL9Ryap3Q2SCC8mHnaml0qA8ZtaY.xXykxg4WDinRfLAdcl0KNq.tWls/CnE0x/
+  - name: shuo.yang
+    alias: shuo_yang
+    authorized_keys: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAAgQDWTLY2Nu7fFmRkAY0tKinTCcq6bRnIhehbWYGhIM2yIpN2HcOILjSBOmP4PbxMCQgcXaArBDvnwugUj4iz2QV2amr+a8HKZopp88l2qXwZd/5WPtflRqO5mMTdv86coS8Wz18oVYyt3nxeNgmw/PS/OCzYyK8Lz/SWnhXo/FC5lw== shuo.yang
+    password: $6$N2MVn1gB$l51FEYJxFJ0DDjRuLJtXLocIL9Ryap3Q2SCC8mHnaml0qA8ZtaY.xXykxg4WDinRfLAdcl0KNq.tWls/CnE0x/
+  - name: bao.jiang
+    alias: bao_jiang
+    authorized_keys: ssh-dss AAAAB3NzaC1kc3MAAACBANx19OQA17H6CqU/GVWbC650rH2f3LhQcyanITsC6ChQ+MJsthicqWQ8XWP/B2Q5myafBjp73Qm1yU+ZQwCSvhKHRDdfqn8tf5rrebrX+q1GggrpEsW/1dLMZ374gn/z/L0HBzn8cckuiOZJpvPW4SMHJMivD83CzEE2PTqB8JPDAAAAFQDzCOO4W4vPsGaDYKNr3xvhPRyE5wAAAIB+SulpyJIMmB5ULvYVpbfTl+EbVzpmGyHqCt1TaSUBT5DuAV1ec0SiZOipVfoO6qYi130W4UmHfJ9PteLuvlQw0hrKRnO+kIiLMNQk7RcUyqLSBdicI8rONACwBe9W5JlVBRO1OZ//pGgJSKvfse1z5R3LrjekW5/ASNNpgLklegAAAIEAgEu4NqWdpliZubU1iAUbi7otDckXtWqewTOCLxUfY8BvSUc5rjWVLGHNiqSKUWkUcexgJnlt+8X7OzZWpzgVaiu+kD3KCJ5u7NnpzNM8IrWZE0cgW8yJA/ggLOEBUxkArZJgdIJDoaFrS4DefxzP4qHONmQAPfdfIzpZM0mradg= lekan@jiangbao-pc
+    password: $6$N2MVn1gB$l51FEYJxFJ0DDjRuLJtXLocIL9Ryap3Q2SCC8mHnaml0qA8ZtaY.xXykxg4WDinRfLAdcl0KNq.tWls/CnE0x/
+  - name: xiaotao.yu
+    alias: xiaotao_yu
+    authorized_keys: ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAIEAmhLubgQRHscOw5VVgNxelJHyutbEl32yLyQStd8a/ai5cfYucWgjbpfo3QoCmi8P1mmkUaHBaZKUzRM8UuzWF72SiOWJxY8sdM+dlDvmgup9+iWgNVrg/7Nkdh1eoaiDPHXfmb7e0tSTmxZnl9JWF8JpZjdmiTgkTQGPxefEQt0=
+    password: $6$N2MVn1gB$l51FEYJxFJ0DDjRuLJtXLocIL9Ryap3Q2SCC8mHnaml0qA8ZtaY.xXykxg4WDinRfLAdcl0KNq.tWls/CnE0x/
+  - name: xiuping.wu
+    alias: xiuping_wu
+    authorized_keys: ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA2PHxtSG0o2i3QWxGV0UVtP6hPT5VaXWK6C0jM0u/1AUStsIvAiWkm5tFxfjUW+KQ0kmEcXA4AOmxet3NLis3GH4O8NseKyFjXQcQeH0Z28SOi8kx/e+KZabHXGK06Y2cSA8rKeCC9YPDnYakJOdo7xrjb0aV/YpWX1Z1xLPuUuQpTefXdJS2Jq2XgqN6wk8P0dGC0lKUxojhtc7Hl8XacKWf/zVCE3FUqKEAlKwRUc7SpGzP5JRrVQTWVS2UYJgFq7PCQoxUQyX84U3XvsS0NWDy6rlQjwVkhyxgx4lhwbob8MUiVb6UZEPDSRX7r/NNk7dswcdEfJT5Ell1tslM8Q== xiuping.wu@lekan.com 
+    password: $6$N2MVn1gB$l51FEYJxFJ0DDjRuLJtXLocIL9Ryap3Q2SCC8mHnaml0qA8ZtaY.xXykxg4WDinRfLAdcl0KNq.tWls/CnE0x/
+  - name: kai.tai
+    alias: kai_tai
+    authorized_keys: ssh-dss AAAAB3NzaC1kc3MAAACBAKB1F9TUlfdc0bm3JZO2yNrpcSfJL7dRg3ePg21anqXEPmMChqTXQdzF3As6gzdinkYNsbvLReNwGbb05Y/k6fqv4xEammpCQV2bqLtShcxC55Wvc4KYU+K3eQ4cmY5RieYbyarjNFYufa/lTSIi7njkJlQaOG9imJHsSzUtmSSZAAAAFQDe2Q9G4a5xtJOWG70MeDeVviCRwwAAAIBfOZ1pt8Wi1Ix8g+XtX1idmWvcBYuZLw6dJBcapgtVnzBlhI0VZGOpssMLltz3eTbIVLMWlR1XFEvaqfhumMMgyJgdtDruAYyUevxqP5zSZ89fmkoK0fkgOag4a+OMWookoPYN+9dPAnnzuUuUx5TkVRAxcp57aUbXmRErVvpXogAAAIBiKp+GSYrR+s+x+P16aX79FkSKfRe5R9rDcfyOtM5+l454VslRJ4lG2/oFv/udfu15lGaL6FfZusWR0kz0Oap+GkzA4mVySLyPdCsdV3p2CbU8+KAPXKIXpS0IVe1tlsBnMu0S/u8VSu8bXwS3q+1pqHS0GPwCCk5VlfSe96ljCQ== kai.tai@mail.lekan.com
+    password: $6$N2MVn1gB$l51FEYJxFJ0DDjRuLJtXLocIL9Ryap3Q2SCC8mHnaml0qA8ZtaY.xXykxg4WDinRfLAdcl0KNq.tWls/CnE0x/
+  - name: da.wu
+    alias: da_wu
+    authorized_keys: ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAs6Rp7jPSIgLufhjkD3dhhilvSujx7nlB5sDlotzAlzhZY81dMO6zqMtDtwK7iGV5Pl7z5pdQBTmRbdJZCVRDBtF7tbKisjkDqrBRRlkecUtWwjwwjNlbQS4ogUKcb89C6tlEXXfuQOLf7UYLn0OkyaQASguIR1axxweCrM06ghs9RSbAKx1cgYhMLgWhLFmMKWc7jGlFF2f5HE++uhd4CDsStM/8+6HjJv7bO2TNk+GfSKpiQMOvY716naWXwTHO/jmcTlTwAyPk1BSQ4KIDYvzaWlIqV9u0kRGzArJwFd2Aqbi/RScy7UYEm4PkNGEc+6jGkMSWZHFAxd97q+XpTQ==
+    password: $6$N2MVn1gB$l51FEYJxFJ0DDjRuLJtXLocIL9Ryap3Q2SCC8mHnaml0qA8ZtaY.xXykxg4WDinRfLAdcl0KNq.tWls/CnE0x/
+  - name: xuehu.xie
+    alias: xuehu_xie
+    authorized_keys: ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEApsiibkXbDQoyQ3IW00WktI9H+Oc//AY/evsTPJL/9msw4o3aVySrHYa5O7pu9spJtI1T3239s+HpsdUcevrqQgYP3jXEfxpKMGE6GmcwHF4DVv7UgLXToioJpUSaivETozeZZadKvJwfRlZMH2IgUJZx3z1zTy/yQ/25Gk+d2w2Z37nIaNG6E6BOzeDyggeUzy3vq9KEvzDyOcwnHQCe8bfve5pEpOjQ2aPoEEXoG/r2Nv64jKumLPSjtv91n9So+mvS8EJU0XVFepLvZSOArn46fXe9SlwER1V1xzKt3lWr1QRtJ3tJkRDATdVuTy3F49U27RdB+KNNQhPObRVgww== xuehu.xie@lekan.lekan.com
+    password: $6$N2MVn1gB$l51FEYJxFJ0DDjRuLJtXLocIL9Ryap3Q2SCC8mHnaml0qA8ZtaY.xXykxg4WDinRfLAdcl0KNq.tWls/CnE0x/
+  - name: shuangshuang.zhang
+    alias: shuangshuang_zhang
+    authorized_keys: ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAsccyccZ1ZEZrcINkG+FowUnvp//cpV2JURh/ofUxl2OQ78mn63+TPBkffmSNycB3zQbu3gNm4AtK14VIGDtdw0fwQ5A8vRgOcJY4vOj93pHKNuD1YLbhiXUnaMximLEqEzOf5pI2mCpQWy0L31G+ParJT8MJI0TP+JY54B4vvuYCrYjddUE+zdympEdsEm9hb7BC3ofE1KSIg/bFHSYZrPtA6seoYBUg16b+SNhFFXMiyV0EqoH8sfHKWY1Y7n9mvhSMyByvJkoa7xYDM7Sgu+dv//EziLno0Hd1+qk37W2Tm02Xgz9c05vyd/235z0q3cU3mthcpTScrPXzpxYSdw==
+    password: $6$N2MVn1gB$l51FEYJxFJ0DDjRuLJtXLocIL9Ryap3Q2SCC8mHnaml0qA8ZtaY.xXykxg4WDinRfLAdcl0KNq.tWls/CnE0x/

@@ -1,0 +1,63 @@
+#!/bin/bash
+#
+# mogstored  This shell script controls the MogileFS tracker daemon
+#
+# Author:       Ruben Kerkhof <ruben@rubenkerkhof.com>
+#
+# chkconfig:    - 97 03
+#
+# description:  MogileFS is a distributed storage system
+# processname:  mogstored
+# config: /etc/mogilefs/mogstored.conf
+. /etc/rc.d/init.d/functions
+lockfile=${LOCKFILE-/var/lock/mogstored}
+RETVAL=0
+
+start() {
+echo -n $"Starting mogilefsd stored:"
+/usr/local/bin/mogstored -c /etc/mogilefs/mogstored.conf --daemon
+RETVAL=$?
+echo
+[ $RETVAL = 0 ] && touch ${lockfile}
+return $RETVAL
+}
+stop() {
+echo -n $"Stopping mogilefsd stored:"
+killproc mogstored
+RETVAL=$?
+echo
+[ $RETVAL = 0 ] && rm -f ${lockfile}
+}
+
+reload() {
+echo -n $"Reloading mogilefsd stored:"
+stop
+start
+RETVAL=$?
+echo
+}
+
+case "$1" in
+start)
+start
+;;
+stop)
+stop
+;;
+status)
+status mogstored
+RETVAL=$?
+;;
+restart)
+stop
+start
+;;
+reload)
+reload
+;;
+*)
+echo $"Usage: mogilefsd {start|stop|restart|reload|status}"
+exit 1
+esac
+
+exit $RETVAL 

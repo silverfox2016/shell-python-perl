@@ -1,0 +1,7 @@
+[salt-2016.11]
+name=SaltStack 2016.11 Release Channel for RHEL/Centos $releasever
+baseurl=https://repo.saltstack.com/yum/redhat/5Server/$basearch/2016.11
+failovermethod=priority
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/saltstack-signing-key

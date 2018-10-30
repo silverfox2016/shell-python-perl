@@ -1,0 +1,119 @@
+#!/bin/bash
+#
+# nginx - this script starts and stops the nginx daemon
+#
+# chkconfig:   - 85 15 
+# description:  Nginx is an HTTP(S) server, HTTP(S) reverse \
+#               proxy and IMAP/POP3 proxy server
+# processname: nginx
+# Default-Start:  2 3 4 5
+# Default-Stop: 0 1 6
+# config:      /usr/local/nginx/conf/nginx.conf
+# pidfile:     /var/run/nginx.pid
+### END INIT INFO
+
+# Source function library.
+. /etc/rc.d/init.d/functions
+
+RETVAL=0
+
+nginx='/usr/local/webserver/nginx/sbin/nginx'
+
+CONFFILE="/usr/local/webserver/nginx/conf/nginx.conf"
+PIDFILE=`awk 'BEGIN { RS="[;{}]" } { if ($1 == "pid") print $2 }' $CONFFILE`
+[ -n "$PIDFILE" ] || PIDFILE="/var/run/nginx.pid"
+
+# Check if all what named needs running
+start()
+{
+  [ "$EUID" != "0" ] && exit 4
+
+  [ -x $nginx ] || exit 5
+  [ -f $CONFFILE ] || exit 6
+  $nginx -t || return $?
+  echo  "Starting nginx: "
+  daemon --pidfile "$PIDFILE" $nginx ;
+  RETVAL=$?
+  if [ $RETVAL -eq 0 ]; then
+    touch /var/lock/subsys/named;
+  else
+    exit 7;
+  fi
+  return 0;
+}
+
+stop() {
+  [ "$EUID" != "0" ] && exit 4
+
+  # Stop daemons.
+  echo -n $"Stopping named: "
+  killproc -p "$PIDFILE" "nginx" -QUIT >/dev/null 2>&1
+
+  RETVAL=0
+
+  # remove pid files
+  if [ $RETVAL -eq 0 ]; then
+    rm -f /var/lock/subsys/named
+  fi;
+
+  rm -f /tmp/nginx-*.sock
+  echo
+  return $RETVAL
+}
+
+restart() {
+	stop
+	start
+}
+
+forcerestart() {
+    kill `cat $PIDFILE`
+    sleep 1
+    start
+}
+
+freload() {
+    [ "$EUID" != "0" ] && exit 
+
+    echo -n $"Reloading "$named": "
+    $nginx -t || return $?
+    oldpid=`cat $PIDFILE`
+    kill -USR2 $oldpid
+    sleep 1
+    kill -WINCH $oldpid
+    while [ 1 ]; do
+        ps -ef | grep "nginx: worker process"|grep $oldpid || break
+        sleep 1
+    done
+    kill -QUIT $oldpid
+    
+	return 0
+}
+
+# See how we were called.
+case "$1" in
+	start)
+		start
+		;;
+	stop)
+		stop
+		;;
+	restart)
+		restart
+		;;
+	reload)
+		$nginx -s reload
+		;;
+        freload)
+                freload
+                ;;
+    force-restart)
+        forcerestart
+        ;;
+	*)
+        echo $"Usage: $0 {start|stop|restart|reload|freload}"
+		[ "x$1" = "x" ] && exit 0
+		exit 2
+esac
+
+exit $RETVAL

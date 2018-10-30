@@ -1,0 +1,61 @@
+#!/bin/bash
+########################################################
+#	清空CDN节点缓存 agent
+#开发：songyeyi
+########################################################
+
+cdn_ip=$(/sbin/ifconfig |grep -m1 "addr:"|awk '{print $2}'|cut -d : -f 2)
+
+json_decode(){
+	local var=$1
+	echo $var| sed -e 's/"//g' -e 's/{//g' -e 's/}//g'  -e 's/:/=/g'
+}
+
+clearcache(){
+	local check_status=0
+	local jison_ts=$(curl -d "search_ts=search&video_sn=$video_sn&video_sets=$video_sets&episode_lang=$episode_lang&episode_type=$episode_type" -s "http://precache.lekan.com/cdn_clear.php")
+	for ts in ${jison_ts}
+	do
+		URL="http://127.0.0.1:9000/purge/video1/$num_third/$num_second/${video_sn}${episode_type}${video_sets}/${episode_lang}/video.ssm/$ts"
+		result=$(curl -I -m 10 -o /dev/null -s -w %{http_code} -H "Host:vod1.lekan.com" $URL)
+		if [ $result != 404 -a $result != 200 ]
+		then
+			check_status=1
+			break
+		fi
+	done
+	if [ $check_status -eq 0 ]
+	then
+		result_cache=$(curl -d "cdncache=update&video_sn=$video_sn&video_sets=$video_sets&episode_lang=$episode_lang&cdn_ip=$cdn_ip&cdn_status=1" -s "http://precache.lekan.com/cdn_clear.php")
+		if [ ${result_cache:=0} ]
+		then
+			echo " $video_sn $video_sets $episode_lang is clear cache ok!"
+		else
+			echo " $video_sn $video_sets $episode_lang curl is clear cache fail!"
+		fi
+	fi
+}
+
+
+getinfo(){
+	
+	cache=$(curl -d "search_node=search&cdn_ip=$cdn_ip" -s "http://precache.lekan.com/cdn_clear.php")
+	for list in ${cache[@]}
+	do
+		str=$(json_decode $list)
+		video_sn=$(echo ${str}|cut -d , -f 1|cut -d = -f 2)
+		video_sets=$(echo ${str}|cut -d , -f 2|cut -d = -f 2)
+		episode_lang=$(echo ${str}|cut -d , -f 3|cut -d = -f 2)
+		episode_type=$(echo ${str}|cut -d , -f 4|cut -d = -f 2)
+		num_third=${video_sn:0-3:3}
+		num_second=${video_sn:0-2:2}
+		clearcache 
+	done
+}
+{
+	flock -n 4
+	[ $? -eq 1 ] && { echo "cdn cache is runing"; exit; }
+	getinfo
+} 4<>cdn_lockfile
+
+

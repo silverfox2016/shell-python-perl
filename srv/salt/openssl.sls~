@@ -1,0 +1,4 @@
+openssl:
+  pkg.installed:
+    - version: 1.0.1e-48.el6_8.3
+    - allow_updates: True

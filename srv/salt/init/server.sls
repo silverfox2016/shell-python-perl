@@ -1,0 +1,20 @@
+include: 
+    gmond
+    history
+    ipset
+    iptables
+    limits
+    minitor
+    ntpd
+    package
+    selinux
+    server
+    snmpd
+    ssh
+    sudoers
+    sysctrl
+    sys_bak
+    timezone
+    useradd
+    vimrc
+    zabbix

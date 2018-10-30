@@ -1,0 +1,41 @@
+#!/bin/bash
+#chkconfig: - 85 15
+#description: a web server
+JAVA_HOME=/usr/local/java
+HOME=/usr/local/tomcat/tomcat-instance
+export JAVA_HOME
+projectname=`basename $0 | sed -r -e s/[A-Z][0-9]+//g`
+echo "$projectname"
+case "$1" in
+start)
+        $HOME/$projectname/bin/startup.sh
+;;
+stop)
+        $HOME/$projectname/bin/shutdown.sh
+;;
+status)
+        service=$(ps -ef | grep -E "java.*$projectname" | grep -v grep  | wc -l)
+                if [ $service == 1  ]; then
+                        echo "$projectname runing ok. "
+                else
+                        echo "$projectname not runing ."
+                fi
+;; 
+restart)
+        $HOME/$projectname/bin/shutdown.sh
+	while true 
+		do
+		  pid=$(ps -ef|grep ${projectname}.conf|grep -v "grep" |wc -l)
+		  if [ $pid == 0 ];then
+			break
+		  fi
+		sleep 1
+		done
+        $HOME/$projectname/bin/startup.sh
+
+;;
+*)
+        echo "Usage: $projectname {start|stop|restart}"
+        exit 1
+;;
+esac

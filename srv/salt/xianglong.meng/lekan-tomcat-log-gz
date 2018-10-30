@@ -1,0 +1,1 @@
+0 0 * * * root /usr/local/script/tar_tomcat_log.sh > /dev/null 2>&1

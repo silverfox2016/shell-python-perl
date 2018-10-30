@@ -1,0 +1,70 @@
+#
+#20151105 ulimit.sysctrl.sudoers.selinux.history
+#
+ulimit:
+  watch:
+    - file: /etc/security/limits.conf
+/etc/security/limits.conf:
+  file.managed:
+    - source: salt://files/limits.conf
+    - user: root
+    - group: root
+    - mode: 644
+
+ulimit -n 65535:
+  cmd.run:
+    - onlyif: test -f /etc/security/limits.conf
+
+sysctl:
+  watch:
+    - file: /etc/sysctrl.conf
+/etc/sysctl.conf:
+  file.managed:
+    - source: salt://files/sysctl.conf
+    - user: root
+    - group: root
+    - mode: 644
+
+sysctl -p:
+  cmd.run:
+    - name: sysctl -p
+    - onlyif: test -f /etc/sysctl.conf
+
+sudoers:
+  watch:
+    - file: /etc/sudoers
+/etc/sudoers:
+  file.managed:
+    - source: salt://files/sudoers
+    - user: root
+    - group: root
+    - mode: 440
+
+selinux:
+  watch:
+    - file: /etc/selinux/config
+/etc/selinux/config:
+  file.managed:
+    - source: salt://files/selinux/config
+    - user: root
+    - group: root
+    - mode: 644
+
+setenforce 0:
+  cmd.run:
+    - name: setenforce 0
+    - onlyif: test -f /etc/selinux/config
+
+history:
+  watch:
+    - file: /etc/profile.d/history.sh
+/etc/profile.d/history.sh:
+  file.managed:
+    - source: salt://files/history.sh
+    - user: root
+    - group: root
+    - mode: 644 
+
+. /etc/profile.d/history.sh:
+  cmd.run:
+    - onlyif: test -f /etc/profile.d/history.sh

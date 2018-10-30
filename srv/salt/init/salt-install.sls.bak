@@ -1,0 +1,27 @@
+epel_install:
+  file.managed:
+    - name: /root/epel-release-6-8.noarch.rpm
+    - source: salt://epel-release-6-8.noarch.rpm
+    - user: root
+    - group: root
+  cmd.run:
+    - name: rpm -ivh /root/epel-release-6-8.noarch.rpm
+    - unless: test -f /etc/yum.repos.d/epel.repo
+    - require:
+      - file: epel_install
+
+conf_epel:
+  file.managed:
+    - name: /etc/yum.repos.d/epel.repo
+    - source: salt://minions/epel.repo
+    - user: root
+    - group: root
+    - mode: 644
+salt_install:
+  pkg.installed:
+    - name: salt-minion
+  file.managed:
+    - name: /etc/salt/minion
+    - source: salt://minions/minion04
+    - require:
+      - pkg: salt-minion

@@ -1,0 +1,91 @@
+create CDN_forCustomer hash:net family inet hashsize 1024 maxelem 65536 
+add CDN_forCustomer 61.155.137.201
+add CDN_forCustomer 112.245.17.195
+add CDN_forCustomer 115.238.145.84
+add CDN_forCustomer 119.145.147.90
+add CDN_forCustomer 60.209.4.39
+add CDN_forCustomer 61.155.137.200
+add CDN_forCustomer 123.162.189.124
+add CDN_forCustomer 61.163.51.146
+add CDN_forCustomer 119.147.152.130
+add CDN_forCustomer 61.155.137.202
+add CDN_forCustomer 218.16.119.242
+add CDN_forCustomer 221.203.3.97
+add CDN_forCustomer 221.203.3.98
+add CDN_forCustomer 118.123.114.58
+add CDN_forCustomer 60.2.61.123
+add CDN_forCustomer 221.203.3.96
+add CDN_forCustomer 112.245.17.194
+add CDN_forCustomer 183.95.81.2
+add CDN_forCustomer 112.245.17.200
+add CDN_forCustomer 117.27.146.93
+add CDN_forCustomer 112.245.17.199
+add CDN_forCustomer 61.183.42.201
+add CDN_forCustomer 119.147.152.133
+create CDN_SourceSite hash:net family inet hashsize 1024 maxelem 65536 
+add CDN_SourceSite 113.105.147.131
+add CDN_SourceSite 112.245.17.202
+add CDN_SourceSite 112.245.17.196
+add CDN_SourceSite 113.105.147.132
+add CDN_SourceSite 112.245.17.201
+add CDN_SourceSite 113.105.147.130
+create RES_SourceSite hash:net family inet hashsize 1024 maxelem 65536 
+add RES_SourceSite 119.147.152.132
+add RES_SourceSite 58.68.228.46
+add RES_SourceSite 112.245.17.198
+create Copyrightaudit hash:net family inet hashsize 1024 maxelem 65536 
+add Copyrightaudit 182.92.160.53
+create Entrance hash:net family inet hashsize 1024 maxelem 65536 
+add Entrance 58.68.228.38
+add Entrance 58.68.240.41
+add Entrance 58.68.228.37
+create Ipadapter hash:net family inet hashsize 1024 maxelem 65536 
+add Ipadapter 54.223.173.51
+create NS_DNS hash:net family inet hashsize 1024 maxelem 65536 
+add NS_DNS 58.68.228.43
+create appLogicService_core hash:net family inet hashsize 1024 maxelem 65536 
+add appLogicService_core 58.68.240.35
+add appLogicService_core 58.68.240.43
+add appLogicService_core 58.68.240.42
+add appLogicService_core 58.68.240.36
+add appLogicService_core 58.68.240.34
+add appLogicService_core 58.68.240.40
+create appLogicService_distributed hash:net family inet hashsize 1024 maxelem 65536 
+add appLogicService_distributed 54.223.167.183
+create appLogicService_AD hash:net family inet hashsize 1024 maxelem 65536 
+add appLogicService_AD 54.223.167.183
+add appLogicService_AD 58.68.240.44
+add appLogicService_AD 58.68.240.47
+create MQ_active hash:net family inet hashsize 1024 maxelem 65536 
+add MQ_active 58.68.228.43
+add MQ_active 182.92.160.53
+create DBmysql_core hash:net family inet hashsize 1024 maxelem 65536 
+add DBmysql_core 58.68.240.37
+create DBmysql_distributed hash:net family inet hashsize 1024 maxelem 65536 
+add DBmysql_distributed 58.68.240.45
+add DBmysql_distributed 54.223.188.236
+create DBmongo_distributed hash:net family inet hashsize 1024 maxelem 65536 
+add DBmongo_distributed 54.223.173.51
+add DBmongo_distributed 115.29.173.218
+add DBmongo_distributed 182.92.160.53
+create DBmysql_bak hash:net family inet hashsize 1024 maxelem 65536 
+add DBmysql_bak 58.68.228.39
+create MoniAutomana hash:net family inet hashsize 1024 maxelem 65536 
+add MoniAutomana 218.241.129.62
+add MoniAutomana 115.29.173.218
+create StepTread hash:net family inet hashsize 1024 maxelem 65536 
+add StepTread 113.105.147.134
+add StepTread 58.68.228.43
+create Log_Statistic hash:net family inet hashsize 1024 maxelem 65536 
+add Log_Statistic 115.29.210.215
+add Log_Statistic 54.223.144.24
+create GrayScaleRelease hash:net family inet hashsize 1024 maxelem 65536 
+add GrayScaleRelease 182.92.160.53
+create AppleTest hash:net family inet hashsize 1024 maxelem 65536 
+add AppleTest 54.223.188.47
+create Thirdparty hash:net family inet hashsize 1024 maxelem 65536 
+add Thirdparty 61.240.137.201
+create Intranet hash:net family inet hashsize 1024 maxelem 65536 
+add Intranet 10.100.0.0/16
+add Intranet 192.168.0.0/16
+add Intranet 172.31.0.0/16

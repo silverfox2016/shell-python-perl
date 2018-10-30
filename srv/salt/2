@@ -1,0 +1,1267 @@
+dg-mog-119.249:
+    ----------
+218.16.119.248_STORE:
+    ----------
+aws-drm-148.47:
+    ----------
+aws-log-198.206:
+    ----------
+aws-ipadapter-173.51:
+    ----------
+aws-ad-144.24:
+    ----------
+aws-test-server-188.47:
+    ----------
+aws-monitor-210.142:
+    ----------
+47.90.82.53-vpn:
+    ----------
+192.168.0.69:
+    ----------
+192.168.0.190:
+    ----------
+124.243.251.117_TOMCAT:
+    ----------
+124.243.251.123_STORE:
+    ----------
+ali-app-jms-160.53:
+    ----------
+124.243.251.119_MYSQL_SLAVE:
+    ----------
+bgp-ngx-240.41:
+    ----------
+bgp-keeplived-240.49:
+    ----------
+ta-mog-17.196:
+    ----------
+ta-mog-17.199:
+    ----------
+bgp-app-240.42:
+    ----------
+dg-mog-119.245:
+    ----------
+bgp-mysqlslave-240.47:
+    ----------
+bgp-app-240.34:
+    ----------
+dg-mog-152.131:
+    ----------
+bgp-app-240.43:
+    ----------
+bgp-mysqlmaster-240.44:
+    ----------
+bgp-keeplived-240.48:
+    ----------
+124.243.251.115_NGINX:
+    ----------
+124.243.251.116_NGINX:
+    ----------
+bgp-res-228.36:
+    ----------
+bgp-app-240.35:
+    ----------
+bgp-ngx-240.45:
+    ----------
+ta-u-res.17.198:
+    ----------
+bgp-app-228.37:
+    ----------
+124.243.251.121_REDIS_SLAVE:
+    ----------
+bgp-mysqlslave-240.37:
+    ----------
+124.243.251.120_MYSQL_MASTER:
+    ----------
+ta-u-cdn-17.194:
+    ----------
+dg-t-cdn-152.133:
+    ----------
+ta-u-cdn-17.200:
+    ----------
+192.168.0.220:
+    ----------
+bgp-app-240.36:
+    ----------
+dg-mog-119.246:
+    ----------
+dg-t-cdn-152.130:
+    ----------
+bgp-app-240.40:
+    ----------
+ta-u-cdn-test-lekan.com-17.202:
+    ----------
+192.168.0.232:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: ftp-stud.hs-esslingen.de
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://192.168.1.101/yum/redhat/5/x86_64/latest/repodata/repomd.xml: [Errno 4] IOError: <urlopen error (111, 'Connection refused')>
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.234:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: pubmirror2.math.uh.edu
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://192.168.1.101/yum/redhat/5/x86_64/latest/repodata/repomd.xml: [Errno 4] IOError: <urlopen error (111, 'Connection refused')>
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.237:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: ftp-stud.hs-esslingen.de
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.236:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: ftp-stud.hs-esslingen.de
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.228:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Repository saltstack-repo is listed more than once in the configuration
+          Loading mirror speeds from cached hostfile
+           * epel: ftp-stud.hs-esslingen.de
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://192.168.1.101/yum/redhat/5/x86_64/latest/repodata/repomd.xml: [Errno 4] IOError: <urlopen error (111, 'Connection refused')>
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.229:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: ftp-stud.hs-esslingen.de
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://192.168.1.101/yum/redhat/5/x86_64/latest/repodata/repomd.xml: [Errno 4] IOError: <urlopen error (111, 'Connection refused')>
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.226:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: ftp-stud.hs-esslingen.de
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.67:
+    ----------
+192.168.0.65:
+    ----------
+192.168.0.231:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: pubmirror2.math.uh.edu
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://192.168.1.101/yum/redhat/5/x86_64/latest/repodata/repomd.xml: [Errno 4] IOError: <urlopen error (111, 'Connection refused')>
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.140:
+    ----------
+192.168.0.16:
+    ----------
+dg-t-res-152.132:
+    ----------
+192.168.0.227:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: ftp-stud.hs-esslingen.de
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.224:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: pubmirror2.math.uh.edu
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.225:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: ftp-stud.hs-esslingen.de
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.222:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: pubmirror2.math.uh.edu
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+124.243.251.118_TOMCAT:
+    ----------
+192.168.0.223:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: pubmirror2.math.uh.edu
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+bgp-ngx-228.38:
+    ----------
+192.168.0.221:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: ftp-stud.hs-esslingen.de
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.194:
+    ----------
+192.168.0.230:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: ftp-stud.hs-esslingen.de
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://192.168.1.101/yum/redhat/5/x86_64/latest/repodata/repomd.xml: [Errno 4] IOError: <urlopen error (111, 'Connection refused')>
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.233:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: ftp-stud.hs-esslingen.de
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://192.168.1.101/yum/redhat/5/x86_64/latest/repodata/repomd.xml: [Errno 4] IOError: <urlopen error (111, 'Connection refused')>
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.197:
+    ----------
+192.168.0.235:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: ftp-stud.hs-esslingen.de
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.193:
+    ----------
+192.168.0.74:
+    ----------
+192.168.0.75:
+    ----------
+192.168.0.71:
+    ----------
+192.168.0.72:
+    ----------
+192.168.0.139:
+    ----------
+192.168.0.43:
+    ----------
+192.168.0.42:
+    ----------
+192.168.0.21:
+    ----------
+192.168.0.20:
+    ----------
+124.243.251.122_REDIS_MASTER:
+    ----------
+bgp-ebook-228.39:
+    ----------
+192.168.0.62:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: ftp-stud.hs-esslingen.de
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.60:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: ftp-stud.hs-esslingen.de
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.61:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Repository base is listed more than once in the configuration
+          Repository updates is listed more than once in the configuration
+          Repository extras is listed more than once in the configuration
+          Repository centosplus is listed more than once in the configuration
+          Repository contrib is listed more than once in the configuration
+          Loading mirror speeds from cached hostfile
+           * epel: ftp-stud.hs-esslingen.de
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Excluding Packages from dell-system-update_independent
+          Finished
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+ta-u-cdn-17.195:
+    ----------
+ta-videosplitter-17.203:
+    ----------
+bgp-res-228.46:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: mirror.math.princeton.edu
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+office_synidc:
+    ----------
+192.168.0.68:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: ftp-stud.hs-esslingen.de
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.161:
+    ----------
+ta-mog-17.204:
+    ----------
+192.168.0.63:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: ftp-stud.hs-esslingen.de
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.70:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Repository base is listed more than once in the configuration
+          Repository updates is listed more than once in the configuration
+          Repository extras is listed more than once in the configuration
+          Repository centosplus is listed more than once in the configuration
+          Repository contrib is listed more than once in the configuration
+          Loading mirror speeds from cached hostfile
+           * epel: pubmirror2.math.uh.edu
+          http://mirrors.163.com/centos/5/addons/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Excluding Packages from dell-system-update_independent
+          Finished
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+192.168.0.64:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: ftp-stud.hs-esslingen.de
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.
+bgp-amq-bind-228.43:
+    ERROR: Error occurred installing package(s). Additional info follows:
+    
+    changes:
+        ----------
+    errors:
+        - Loaded plugins: fastestmirror
+          Loading mirror speeds from cached hostfile
+           * epel: pubmirror1.math.uh.edu
+          http://vault.centos.org/5/os/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/extras/x86_64/repodata/repomd.xml: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          http://vault.centos.org/5/updates/x86_64/repodata/repomd.xml: [Errno 4] IOError: <urlopen error (97, 'Address family not supported by protocol')>
+          Trying other mirror.
+          Setting up Install Process
+          Resolving Dependencies
+          --> Running transaction check
+          ---> Package lsof.x86_64 0:4.78-6 set to be updated
+          --> Finished Dependency Resolution
+          
+          Dependencies Resolved
+          
+          ================================================================================
+           Package          Arch               Version             Repository        Size
+          ================================================================================
+          Updating:
+           lsof             x86_64             4.78-6              base             328 k
+          
+          Transaction Summary
+          ================================================================================
+          Install       0 Package(s)
+          Upgrade       1 Package(s)
+          
+          Total download size: 328 k
+          Downloading Packages:
+          http://vault.centos.org/5/os/x86_64/CentOS/lsof-4.78-6.x86_64.rpm: [Errno 14] HTTP Error 404: Not Found
+          Trying other mirror.
+          
+          
+          Error Downloading Packages:
+            lsof-4.78-6.x86_64: failure: CentOS/lsof-4.78-6.x86_64.rpm from base: [Errno 256] No more mirrors to try.

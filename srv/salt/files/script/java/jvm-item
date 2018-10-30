@@ -1,0 +1,75 @@
+#!/bin/bash
+####################################
+#监控各项目jvm的内存情况
+#song
+####################################
+tmp=/tmp/jvm-stat
+old_tmp=/tmp/jvm-statold
+pid=/tmp/jvm-stat.pid
+jvm_time=/tmp/jvm_time
+[ -f $jvm_time ] || echo "$(date +%s)" >$jvm_time
+jstat_command="sudo /usr/local/java/bin/jstat"
+item=$1
+key=$2
+if [ -f $pid ];then
+    p_pid=$(cat $pid)
+    ps -ef|grep -v grep|grep -q $p_pid &&  rm -rf $pid
+    while true;do
+        sleep 1
+    done
+fi
+echo "$$" >$pid
+vpid=$(ps -ef|grep -w $item|grep -Ev "grep|jvm-item"|awk '{print $2}')
+tmp="${tmp}-${item}.log"
+old_tmp="${old_tmp}-${item}.log"
+
+if [ -f $tmp ];then
+    old_time=$(cat $jvm_time)
+    now_time=$(date +%s)
+    let inte=now_time-old_time
+    if [ $inte -gt 300 ];then
+        $jstat_command -gcutil $vpid >$tmp
+        $jstat_command -gcold  $vpid >$old_tmp
+        echo "$(date +%s)" >$jvm_time
+    fi
+else
+    $jstat_command -gcutil $vpid >$tmp
+    $jstat_command -gcold  $vpid >$old_tmp
+    echo "$(date +%s)" >$jvm_time
+fi
+
+case $key in
+
+YGCT)
+   awk 'NR==2{print $8}' $tmp
+;;
+FGCT)
+   awk 'NR==2{print $10}' $tmp
+;;
+FGC)
+   awk 'NR==2{print $9}' $tmp
+;;
+YGC)
+   awk 'NR==2{print $7}' $tmp
+;;
+GCT)
+   awk 'NR==2{print $11}' $tmp
+;;
+E)
+   awk 'NR==2{print $3}' $tmp
+;;
+S0)
+   awk 'NR==2{print $1}' $tmp
+;;
+S1)
+   awk 'NR==2{print $2}' $tmp
+;;
+O)
+   awk 'NR==2{print $4}' $tmp
+;;
+OU)
+   awk 'NR==2{print $6}' $old_tmp
+;;
+esac
+
+rm -rf $pid
